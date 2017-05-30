@@ -1,0 +1,22 @@
+{
+  "name": "IOSPMO_viewa",
+  "version": "0.1.0",
+  "summary": "A short description of IOSPMO_viewa.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sojoud90/IOSPMO_viewa",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sojoud90": "sahmad@blessedtreeit.com"
+  },
+  "source": {
+    "git": "https://github.com/sojoud90/IOSPMO_viewa.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "IOSPMO_viewa/Classes/**/*"
+}

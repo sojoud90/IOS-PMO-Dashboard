@@ -1,0 +1,6 @@
+framework module IOSPMO_viewa {
+  umbrella header "IOSPMO_viewa-umbrella.h"
+
+  export *
+  module * { export * }
+}

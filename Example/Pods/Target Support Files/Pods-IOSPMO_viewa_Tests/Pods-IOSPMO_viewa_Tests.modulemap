@@ -1,0 +1,6 @@
+framework module Pods_IOSPMO_viewa_Tests {
+  umbrella header "Pods-IOSPMO_viewa_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

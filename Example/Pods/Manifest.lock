@@ -1,0 +1,16 @@
+PODS:
+  - IOSPMO_viewa (0.1.0)
+
+DEPENDENCIES:
+  - IOSPMO_viewa (from `../`)
+
+EXTERNAL SOURCES:
+  IOSPMO_viewa:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IOSPMO_viewa: 2ad18686d491cdde996d82d73aea3e03746de664
+
+PODFILE CHECKSUM: 92a61bc1d981d2ef839f347b3dbf0f5e0299e2f1
+
+COCOAPODS: 1.2.1
